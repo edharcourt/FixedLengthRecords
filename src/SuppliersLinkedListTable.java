@@ -201,4 +201,12 @@ public class SuppliersLinkedListTable implements SuppliersTable {
 		return null;
 	}
 
+	public void selectAll() {
+		// HW print to console table formatted nicely
+	}
+
+	public void selectSNO() {
+
+	}
+
 } // SuppliersLinkedListTable
